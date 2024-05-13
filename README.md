@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 #### I am software Delovoper
 
 
-This is my github repo for learning nothing more because I have full dedication where I job.
+This is my Github repo for learning nothing more because I have full dedication where I job.
+
+I'm trying new languajes and technologies. 
 
 Skills: python / natural-adaba / sql / postgresql / bash-scripting.
 
