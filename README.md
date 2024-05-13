@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  My name is Ezequiel
-#### I am software Delovoper
+#### I am back-end software Developer 
 
 
 This is my Github repo for learning nothing more because I have full dedication where I job.
