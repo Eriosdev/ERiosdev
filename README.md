@@ -22,7 +22,7 @@ This is my Github repo for learning nothing more because I have full dedication 
 
 I'm trying new languajes and technologies. 
 
-Skills: python / natural-adaba / sql / postgresql / bash-scripting.
+Skills: python / natural-adabas / sql / postgresql / bash-scripting / mongodb / django / eclipse
 
 - 🔭 I’m currently working on this page. 
 
